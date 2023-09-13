@@ -2,6 +2,7 @@
 
 /**
  * times_tale - prints the 9 times table, starting with 0
+ * return: 0 success
  */
 void times_table(void)
 {
